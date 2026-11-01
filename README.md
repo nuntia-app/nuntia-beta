@@ -9,7 +9,7 @@ This repository holds only the built plugin (releases). The source code lives in
 ## Install with BRAT
 
 1. In Obsidian, install **BRAT** from Community plugins and enable it.
-2. BRAT → **Add beta plugin** → enter `msigut/nuntia-beta` → Add plugin.
+2. BRAT → **Add beta plugin** → enter `nuntia-app/nuntia-beta` → Add plugin.
 3. Enable **Nuntia** in Community plugins and follow its connect steps.
 
 BRAT keeps the plugin up to date with new releases here.
