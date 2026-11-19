@@ -4,6 +4,6 @@
 	"author": "Martin Šigut",
 	"description": "Real-time sync for your vault, with a cloud MCP server for AI agents.",
 	"isDesktopOnly": false,
-	"version": "0.2.48",
+	"version": "0.2.49",
 	"minAppVersion": "1.13.0"
 }
